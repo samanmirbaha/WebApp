@@ -11,7 +11,6 @@ import org.testng.annotations.Test;
 public class acat {
 	public HtmlUnitDriver driver;
 	//public WebDriver driver;
-	//Change ip
 	public WebDriverWait wait;
 	public String URL = "http://18.191.242.17:8080/ProdWebapp";
 	public String URL1 = "http://18.191.242.17:8080/ProdWebapp/avncreatepage.jsp";
